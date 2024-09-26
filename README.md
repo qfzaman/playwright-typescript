@@ -8,6 +8,8 @@ Hello! This was a practice automation project using Playwright and Allure report
 
   <ul>
    <li>Validate login</li>
+   <li>Handle Alerts</li>
+   <li>Basic Interactions</li>
   </ul>
 
 ## Environment Setup Guide
